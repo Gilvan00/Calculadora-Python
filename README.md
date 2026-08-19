@@ -25,7 +25,7 @@ Após iniciar o programa, o usuário deverá informar dois números e escolher u
 
 ## Explicação do código Python
 
-programa utiliza um laço while True para permitir que a calculadora continue funcionando enquanto o usuário não escolher encerrá-la.
+Programa utiliza um laço while True para permitir que a calculadora continue funcionando enquanto o usuário não escolher encerrá-la.
 
 Primeiramente, o programa solicita dois números ao usuário utilizando input(). A função float() é utilizada para transformar os valores informados em números que podem possuir casas decimais.
 
