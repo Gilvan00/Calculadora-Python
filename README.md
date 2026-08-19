@@ -6,7 +6,7 @@ Este projeto consiste em uma calculadora desenvolvida em Python. O programa perm
 ## Arquivos do projeto
 calculadora.py - contém o código principal da calculadora.
 
-calculadora.sh - arquivo executável utilizado para iniciar a calculadoral
+calculadora.sh - arquivo executável utilizado para iniciar a calculadora.
 
 
 ## Como executar o arquivo .sh
